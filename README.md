@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+  <h1>¡Hola! Soy Stepan Seleznev </h1>
+  <h3>Desarrollador de Software Multidisciplinar</h3>
+  
+  <a href="mailto:stevesttxd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+<br/>
 
-<!--
-**SteveSel/SteveSel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi Stack Tecnológico
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## Proyectos Destacados
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3> <a href="https://github.com/SteveSel/GameJam2026">GameJam2026</a></h3>
+      <p>Videojuego desarrollado bajo presión y con límite de tiempo para la edición de la Game Jam 2026. </p>
+      <p><b>Tecnología:</b> C# <i>Unity</i></p>
+    </td>
+    <td width="50%">
+      <h3> <a href="https://github.com/SteveSel/Busqueda-no-informada-Heuristica-AIMA">Busqueda Heuristica AIMA</a></h3>
+      <p>Implementación de algoritmos de búsqueda no informada y heurística basados en el libro clásico "Artificial Intelligence: A Modern Approach".</p>
+      <p><b>Tecnología:</b> Java</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3> <a href="https://github.com/SteveSel/MovieDatabase">MovieDatabase</a></h3>
+      <p>Aplicación para consultar información sobre películas. Consumo de APIs externas y tipado estricto para una UI robusta.</p>
+      <p><b>Tecnología:</b> TypeScript</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SteveSel&show_icons=true&theme=radium&hide_border=true" alt="Mis estadísticas" />
+</div>
