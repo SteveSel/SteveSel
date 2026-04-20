@@ -53,10 +53,6 @@
       <p>Modelo de Visión por Computadora (CNN) entrenado con el dataset MNIST para reconocer y clasificar números escritos a mano.</p>
       <p><b>Tecnología:</b> Python | PyTorch</p>
     </td>
-    <td width="50%">
-      <br><br>
-      <p align="center"><i>Construyendo el próximo proyecto...</i> 🚀</p>
-    </td>
   </tr>
 </table>
 
