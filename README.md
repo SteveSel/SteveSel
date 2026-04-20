@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <br/>
@@ -37,6 +38,11 @@
       <h3> <a href="https://github.com/SteveSel/MovieDatabase">MovieDatabase</a></h3>
       <p>Aplicación para consultar información sobre películas. Consumo de APIs externas y tipado estricto para una UI robusta.</p>
       <p><b>Tecnología:</b> TypeScript</p>
+    </td>
+    <td width="50%">
+      <h3> <a href="https://github.com/SteveSel/Number-Recognizer">Number Recognizer</a></h3>
+      <p>Modelo de Visión por Computadora (CNN) entrenado con el dataset MNIST para reconocer y clasificar números escritos a mano.</p>
+      <p><b>Tecnología:</b> Python | PyTorch</p>
     </td>
   </tr>
 </table>
