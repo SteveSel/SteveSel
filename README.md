@@ -40,7 +40,7 @@
       <p><b>Tecnología:</b> TypeScript</p>
     </td>
     <td width="50%">
-      <h3> <a href="https://github.com/SteveSel/Number-Recognizer">Number Recognizer</a></h3>
+      <h3> <a href="https://github.com/SteveSel/Number-Recognizer-AI">Number Recognizer</a></h3>
       <p>Modelo de Visión por Computadora (CNN) entrenado con el dataset MNIST para reconocer y clasificar números escritos a mano.</p>
       <p><b>Tecnología:</b> Python | PyTorch</p>
     </td>
