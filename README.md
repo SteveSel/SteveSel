@@ -25,7 +25,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3>🐳 <a href="https://github.com/SteveSel/Polymarket-Tracker">Polymarket Whale Tracker</a></h3>
+      <h3><a href="https://github.com/SteveSel/Polymarket-Tracker">Polymarket Whale Tracker</a></h3>
       <p>Dashboard analítico full-stack en tiempo real para rastrear y agregar transacciones masivas. Implementación avanzada de consumo de APIs esquivando bloqueos (Cloudflare) mediante Server Actions.</p>
       <p><b>Tecnología:</b> Next.js | TypeScript | SQLite | Prisma</p>
     </td>
