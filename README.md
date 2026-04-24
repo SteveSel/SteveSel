@@ -53,13 +53,12 @@
       <p>Modelo de Visión por Computadora (CNN) entrenado con el dataset MNIST para reconocer y clasificar números escritos a mano.</p>
       <p><b>Tecnología:</b> Python | PyTorch</p>
     </td>
+    <td width="50%">
+      <h3> <a href="https://github.com/SteveSel/NLP-Sentiment-Analyzer">NLP Sentiment Analyzer</a></h3>
+      <p>Aplicación web de Procesamiento de Lenguaje Natural. Utiliza Transfer Learning y modelos Transformer pre-entrenados para realizar análisis de sentimientos en textos.</p>
+      <p><b>Tecnología:</b> Python | Hugging Face | Gradio</p>
+    </td>
   </tr>
 </table>
 
 <br/>
-
-## Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SteveSel&show_icons=true&theme=radium&hide_border=true" alt="Mis estadísticas" />
-</div>
